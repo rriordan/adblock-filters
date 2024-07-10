@@ -1,0 +1,1166 @@
+[Adblock Plus 2.0]
+! Title: iam-py-test's antitypo list
+! Description: Ever hit the wrong key when typing an address and ended up in the wrong place? This list aims to prevent that
+! Expires: 1 day
+! Homepage: https://github.com/iam-py-test/my_filters_001
+! Issues url: https://github.com/iam-py-test/my_filters_001/issues
+! GitLab issues url (not checked as often): https://gitlab.com/iam-py-test/my_filters_001/-/issues
+! Last updated: 2024-6-25
+
+! https://safeweb.norton.com/report/show?url=xn--gogle-jua.com
+! https://virustotal.com/gui/url/0a354e33a0171ba3a740b823473ac7f8f0ae6d60924c9ced0ae6ba46851275bb/detection
+! https://virustotal.com/gui/domain/xn--gogle-jua.com/detection
+||xn--gogle-jua.com^$all
+! https://www.mywot.com/scorecard/vrustotal.com
+! https://safeweb.norton.com/report/show?url=vrustotal.com
+||vrustotal.com^$document
+! https://virustotal.com/gui/url/eb8b44eb62e50f576631d087eec719a2e12b34272ad03e04c2356a547e6896be/community
+! https://virustotal.com/gui/domain/googlec.om/detection
+! https://www.siteadvisor.com/sitereport.html?url=http%3A%2F%2Fgooglec.om
+! https://safeweb.norton.com/report/show?url=http%3A%2F%2Fgooglec.om
+! https://transparencyreport.google.com/safe-browsing/search?url=http:%2F%2Fgooglec.om
+! https://sitecheck.sucuri.net/results/googlec.om
+! https://safeweb.norton.com/reviews?url=googlec.om
+! Can not resolve host but might come back some day
+||googlec.om^$all
+! https://virustotal.com/gui/url/f044015cf97b2475c569b46c7dc45b152ecd991ff365facd5c9a15cdfdeb8f68/detection
+! https://www.urlvoid.com/scan/accountgoogle.com/
+! https://www.mywot.com/scorecard/accountgoogle.com
+||accountgoogle.com^$all
+||accountsgoogle.net^$all
+||googlesignin.xyz^$all
+||signingoogle.xyz^$all
+||logingoogle.xyz^$all
+! https://virustotal.com/gui/url/2778a0b6162e8c14ed450dda8aa6c32486a6c7a8c224e940e7fb41be39816fc4/detection
+||malwarebytes.xyz^$document
+!!! w3school.com$document
+! https://github.com/easylist/easylist/pull/7950
+! https://www.siteadvisor.com/sitereport.html?url=xozilla.com
+!!! xozilla.com$all
+! https://sitecheck.sucuri.net/results/bit.lu
+||bit.lu^$document
+! https://www.mywot.com/scorecard/alwarebytes.com
+||alwarebytes.com^$document
+! inkbunny[.]net typosquatt
+||inkbunny.xyz^$document
+! duckDuckGo typosquatt - https://www.fortiguard.com/webfilter?q=dukduckgo.com&version=8
+||dukduckgo.com^$document
+! https://blog.dynamoo.com/2011/04/alisa-cartercom-lizamooncom-and-worid.html
+! https://safeweb.norton.com/report/show?url=google-1aa.com
+||google-1aa.com^$all
+! https://safeweb.norton.com/report/show?url=googlesite.ws
+||googlesite.ws^$document
+! https://github.com/AdguardTeam/AdguardFilters/issues/85224
+||www.youtubewon.com^$document
+||youtubewon.com^$document
+! https://www.reddit.com/r/mildlyinfuriating/comments/nc9zpe/got_a_paypal_or_should_i_say_paypl_phishing_email/
+! https://virustotal.com/gui/url/e604fa0374dbbceefaf7190bd7aa649561dfc19ff49af443d8931df40e1e1f43/detection
+||paypl.com^$all
+||paypal.xyz^$document
+! https://virustotal.com/gui/url/4531df5b01e2c58f9307fabecc9a17b03c6157bafc8e9af736b278e95c182dc5/detection
+||payapl.com^$all
+! https://virustotal.com/gui/url/2b0a3525bf412601e1acea8f7ee1eb0627df843d58e2d10553ea5a81d4ba26be/detection
+! https://www.siteadvisor.com/sitereport.html?url=cchase.com
+||cchase.com^$document
+! https://virustotal.com/gui/url/6d9e9d347f3578fe8fea973820a40a0ab760165e613af323b4a025dee339c73e/detection
+! https://www.mywot.com/scorecard/blogsopt.com
+||blogsopt.com^$all
+! https://virustotal.com/gui/url/76074c7a040ba1edcea412c3d1ea9098ee43ee85cffb75be5882ea553bc43d81/community
+! https://www.mywot.com/scorecard/g0ogle.com
+||g0ogle.com^$document
+! https://github.com/SOBotics/Belisarius/issues/5
+||stackoverflows.com^$document
+! https://safeweb.norton.com/reviews?url=googe.com
+||googe.com^$all
+! https://forum.mywot.com/24626-whatsmyipaddress-com
+||whatsmyipaddress.com^$document
+! https://www.fortiguard.com/webfilter?q=appple.com&version=8
+||appple.com^$all
+||bankofamericaa.com^$document
+||rasberrypi.org^$document
+||google.xyz^$document
+! https://www.scamner.com/check/irs.guv
+||irs.guv^$document
+! Look-alikes using non-ascii
+||discōrd.com^$document
+||rėddit.com^$document
+! https://virustotal.com/gui/user/Site.safetychecker
+! https://virustotal.com/gui/url/7108cfe6953cab08696ae1f9ab2c777b749fb53e7beb5c003756ea522c880f17/detection
+||yotube.com^$all
+! https://github.com/rcmaehl/WhyNotWin11/issues/66
+||whynotwin11.com^$document
+! https://github.com/blocklistproject/Lists/blob/master/malware.txt
+! https://virustotal.com/gui/url/7f0b595a6004b1b6b6563e39b8d147dfde6a70d714e43b8a5a3da81b857e6b8b/detection
+! https://www.siteadvisor.com/sitereport.html?url=01apple.com
+||01apple.com^$all
+! Does not resolve to anything - yet...
+||duckduckgo.net^$document
+! Might be typosquatts of yahoo
+||yahooc.com^$document
+||yahooc.om^$document
+! https://virustotal.com/gui/url/263cf0103560c531755ed20823111c0cef36108893f369e8b58885777883940e/community
+||virustotl.com^$document
+! https://virustotal.com/gui/url/83cbc65ef32d4eef31acf9c5cfbf6acf1a41d8689c106836770caf31f5153e06/community
+||yutube.com^$document
+! https://virustotal.com/gui/url/8e073d1ab7f3234109c1b9382a784886631a8b8c486b55845fe9c07628dfa593/detection
+! https://safeweb.norton.com/report/show?url=virusttal.com
+||virusttal.com^$document,popup
+! https://virustotal.com/gui/url/db1da5818091e5270454bf765af7f24f8e1aec7ae7b6d0aeb384c3db95e67416/detection
+! https://www.siteadvisor.com/sitereport.html?url=virustota.com
+! https://safeweb.norton.com/report/show?url=virustota.com
+||virustota.com^$all
+
+! https://virustotal.com/gui/url/7192e189a778151b8b2ac216542c1dd4c842cc5dded479941cfecfc940e44cc8/detection
+! https://safeweb.norton.com/report/show?url=discordapp.cam
+! https://www.siteadvisor.com/sitereport.html?url=discordapp.cam
+||discordapp.cam^$all
+
+||old.ereddit.com^$document
+||ereddit.com^$document
+||craisglist.org^$document
+! https://new.reddit.com/r/dwarffortress/comments/e4srco/be_sure_to_use_org_instead_of_com_when_going_to/
+||dwarffortresswiki.com^$document
+
+||bitdefneder.com^$document
+
+! https://blog.malwarebytes.com/threat-intelligence/2021/09/the-many-tentacles-of-magecart-group-8/
+||googheusercontent.com^$document
+||googlatagmanager.com^$document
+||googlausercontent.com^$document
+||google5sercontent.com^$document
+||googleafalytics.com^$document
+||googleanadytics.com^$document
+||googleanahytics.com^$document
+||googleanal9tics.com^$document
+||googleanalxtics.com^$document
+||googleanaly4ics.com^$document
+||googleanalydics.com^$document
+||googleanalypics.com^$document
+||googleanalytacs.com^$document
+||googleanalytias.com^$document
+||googleanalytibs.com^$document
+||googleanalyticc.com^$document
+||googleanalyticr.com^$document
+||googleanalyticw.com^$document
+||googleanalytigs.com^$document
+||googleanalytiks.com^$document
+||googleanalytkcs.com^$document
+||googleanalytmcs.com^$document
+||googleanalytycs.com^$document
+||googleanalyuics.com^$document
+||googleanalyvics.com^$document
+||googleanamytics.com^$document
+||googleananytics.com^$document
+||googleanclytics.com^$document
+||googleanelytics.com^$document
+||googleanilytics.com^$document
+||googleanqlytics.com^$document
+||googleaoalytics.com^$document
+||googlecnalytics.com^$document
+||googledagmanager.com^$document
+||googleenalytics.com^$document
+||googleesercontent.com^$document
+||googleinalytics.com^$document
+||googlepagmanager.com^$document
+||googleqnalytics.com^$document
+||googleqsercontent.com^$document
+||googletacmanager.com^$document
+||googletaemanager.com^$document
+||googletag-anager.com^$document
+||googletageanager.com^$document
+||googletagianager.com^$document
+||googletaglanager.com^$document
+||googletagmafager.com^$document
+||googletagmajager.com^$document
+||googletagmalager.com^$document
+||googletagmanacer.com^$document
+||googletagmanaeer.com^$document
+||googletagmanafer.com^$document
+||googletagmanagar.com^$document
+||googletagmanagdr.com^$document
+||googletagmanage2.com^$document
+||googletagmanageb.com^$document
+||googletagmanagep.com^$document
+||googletagmanages.com^$document
+||googletagmanagev.com^$document
+||googletagmanagez.com^$document
+||googletagmanaggr.com^$document
+||googletagmanagmr.com^$document
+||googletagmanagur.com^$document
+||googletagmanaoer.com^$document
+||googletagmanawer.com^$document
+||googletagmancger.com^$document
+||googletagmaneger.com^$document
+||googletagmaniger.com^$document
+||googletagmanqger.com^$document
+||googletagmaoager.com^$document
+||googletagmcnager.com^$document
+||googletagminager.com^$document
+||googletagmqnager.com^$document
+||googletagoanager.com^$document
+||googletaomanager.com^$document
+||googletawmanager.com^$document
+||googletcgmanager.com^$document
+||googletigmanager.com^$document
+||googletqgmanager.com^$document
+||googletsercontent.com^$document
+||googleu3ercontent.com^$document
+||googleuagmanager.com^$document
+||googleucercontent.com^$document
+||googleuqercontent.com^$document
+||googleurercontent.com^$document
+||googleusarcontent.com^$document
+||googleusdrcontent.com^$document
+||googleuse2content.com^$document
+||googleusebcontent.com^$document
+||googleusepcontent.com^$document
+||googleuseraontent.com^$document
+||googleuserbontent.com^$document
+||googleusercgntent.com^$document
+||googleuserckntent.com^$document
+||googleusercmntent.com^$document
+||googleusercnntent.com^$document
+||googleusercoftent.com^$document
+||googleusercojtent.com^$document
+||googleusercoltent.com^$document
+||googleusercon4ent.com^$document
+||googleusercondent.com^$document
+||googleuserconpent.com^$document
+||googleusercontant.com^$document
+||googleusercontdnt.com^$document
+||googleuserconteft.com^$document
+||googleusercontejt.com^$document
+||googleusercontelt.com^$document
+||googleuserconten4.com^$document
+||googleusercontend.com^$document
+||googleusercontenp.com^$document
+||googleusercontenu.com^$document
+||googleusercontenv.com^$document
+||googleuserconteot.com^$document
+||googleusercontgnt.com^$document
+||googleusercontmnt.com^$document
+||googleusercontunt.com^$document
+||googleuserconuent.com^$document
+||googleusescontent.com^$document
+||googleusgrcontent.com^$document
+||googleusmrcontent.com^$document
+||googlevagmanager.com^$document
+||googlganalytics.com^$document
+||googluanalytics.com^$document
+||googlutagmanager.com^$document
+||googmeanalytics.com^$document
+
+! random domains
+||pay-pal.club^$document
+||tw1tch.info^$document
+||cioubfiare.com^$document
+||exampe.com^$document
+
+! https://blog.malwarebytes.com/threat-intelligence/2021/11/credit-card-skimmer-evades-virtual-machines/
+||cdn.cookieslaw.org^$all
+||cookieslaw.org^$document
+
+! https://twitter.com/Artilllerie/status/1534076124829036544
+||bbleepingcomputer.com^$document
+||bleepingc0mputer.com^$document
+||bleepingccomputer.com^$document
+||bleepingcimputer.com^$document
+||bleepingcmoputer.com^$document
+||bleepingcmputer.com^$document
+||bleepingcommputer.com^$document
+||bleepingcomouter.com^$document
+||bleepingcompiter.com^$document
+||bleepingcompouter.com^$document
+||bleepingcompputer.com^$document
+||bleepingcomptuer.com^$document
+||bleepingcompurer.com^$document
+||bleepingcomputee.com^$document
+||bleepingcomputeer.com^$document
+||bleepingcomputerr.com^$document
+||bleepingcomputet.com^$document
+||bleepingcomputor.com^$document
+||bleepingcomputre.com^$document
+||bleepingcomputrr.com^$document
+||bleepingcomputter.com^$document
+||bleepingcomputwr.com^$document
+||bleepingcompuuter.com^$document
+||bleepingcompuyer.com^$document
+||bleepingcompyter.com^$document
+||bleepingcomupter.com^$document
+||bleepingconputer.com^$document
+||bleepingcoomputer.com^$document
+||bleepingcopmuter.com^$document
+||bleepingcoputer.com^$document
+||bleepingcpmputer.com^$document
+||bleepingocmputer.com^$document
+||bleepingvomputer.com^$document
+||bleepingxomputer.com^$document
+
+! I made a mistake and went to this domain
+||forums.malwarebytes.co^$document
+||malwarebytes.co^$document
+
+! https://github.com/VernonStow/Filterlist/commit/cb04d77547497a1cd211d2eac20f8af10de01a76 (all credit to https://github.com/VernonStow for finding these domains)
+! https://app.any.run/tasks/f204948b-3940-41d2-af50-b3db789d4ac3
+! https://virustotal.com/gui/file/e34575d69ee7a2c0231982d4c2e47edc9adbf7c9290caedd69ad7598a2ae759c (with junk data deleted)
+||notepads-plus-plus.org^$all
+! same file
+||thundersbird.org^$all
+||codevisualstudio.org^$all
+||braves-browsers.org^$all
+
+! seems to be owned by Amazon (based on very limited research) but worth blocklisting anyway
+||anazon.com^$document
+
+! I mistyped virtualbox's website and landed here, which redirected to get[.]safety-search[.]com
+||virutalbox.org^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/4201
+||whatsaappp.com^$all
+||no.whatsaappp.com^$all
+||googlo.co^$all
+||8l.googlo.co^$all
+||yahoo-news.co^$all
+
+! https://dnstwister.report/search?ed=676f6f676c652e636f6d
+||googloe.com^$document
+
+! I made (another) typo
+||example.cm^$document
+
+! https://github.com/chris408/virustotal-subdomain-scraper/pull/1
+||www.virtustotal.com^$document
+||virtustotal.com^$document
+
+! https://dnstwist.it/ (domain redirects to a sus Amazon page)
+||duckduckfo.com^$document
+! redirects to Google?
+||duckduckg0.com^$document
+! parked
+||virtualboc.org^$document
+
+! copied from ThreatFox
+! https://threatfox.abuse.ch/ioc/1064519/
+! https://threatfox.abuse.ch/ioc/1053246/
+||wwww-dlscord.top^$all
+! https://threatfox.abuse.ch/ioc/1064520/
+! https://threatfox.abuse.ch/ioc/1053244/
+||wwww-discord.top^$all
+! https://threatfox.abuse.ch/ioc/1064521/
+||wwwwdiscord.top^$all
+! https://threatfox.abuse.ch/ioc/1064528/
+! https://threatfox.abuse.ch/ioc/1053222/
+||www-discord.top^$all
+! https://threatfox.abuse.ch/ioc/1064468/
+||vvv-discord.top^$all
+! https://threatfox.abuse.ch/ioc/1064472/
+||vwvv-discord.top^$all
+
+! https://dnstwist.it/
+||discordi.com^$document
+! https://app.any.run/tasks/015824a4-f267-48df-8dde-a7ddd78f167e
+||discordt.com^$all
+
+! https://virustotal.com/gui/domain/netfllpl.com/community
+||netfllpl.com^$all
+
+! listed in some list somewhere
+||facebooklcom.com^$all
+
+! another day, another typo
+||virustotal.co^$document
+
+! https://dnstwist.it/
+||virusotal.com^$document
+||virustptal.com^$document
+
+! https://github.com/uBlockOrigin/uAssets/issues/9848#issuecomment-907855092
+! (28/1/2023) https://app.any.run/tasks/de411bb9-92af-42e5-a03a-992f81138d96
+||www.mediafiire.com^$all
+||mediafiire.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/11269
+||discqrdapp.com^$all
+
+! appears to be a former tech support scam page, but now is parked
+||malwarebytes.support^$document
+
+! https://github.com/uBlockOrigin/uAssets/issues/16558
+||obsproicet.net^$all
+
+! https://scammer.info/t/fake-metamask-download/119071 (NXDOMAIN)
+||download-metamask.com^$all
+
+! https://dnstwist.it/ for mediafire
+||mediafire1.com^$document
+
+! listed in the MWB - https://github.com/DandelionSprout/adfilt/issues/188
+||gogle.net^$all
+
+! listed in uBo badware
+||com.com^$all
+
+! imports from the MWB
+||googieapls.com^$all
+! https://www.reddit.com/r/mildlyinfuriating/comments/nc9zpe/got_a_paypal_or_should_i_say_paypl_phishing_email/
+||paypaI.com^$all
+
+! https://github.com/durablenapkin/scamblocklist/issues/5
+||dizcord.gift^$all
+
+! typo someone made. Redirects to a rhymes website?
+||gitlabs.com^$document
+
+! https://forums.malwarebytes.com/topic/294989-making-sense-of-a-website-exclusion-issue/
+! https://forums.malwarebytes.com/topic/294994-possible-false-positive/ (account required)
+||stopify.co^$document
+
+! https://github.com/iam-py-test/my_filters_001/issues/109
+||b-i-t-l-y.co^$all
+||b-ly.link^$all
+||b-y.by^$all
+||bit-ly.is^$all
+||bit-ly.mobi^$all
+||bitly.best^$all
+||bitly.email^$all
+||bitly.gold^$all
+||bitly.host^$all
+||bitly.network^$all
+||tiny-url.mobi^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/142492
+||apkmirror.net^$document
+||github.me^$document
+||yandec.ru^$document
+||yandex.co^$document
+||tgram.ru^$all
+||telegramm.site^$all
+||web-telegram.net^$all
+||apkmirror.co^$all
+||webogram.org^$all
+||webogram.ru^$all
+
+! https://threatfox.abuse.ch/ioc/1081080/
+||micnosoftupdates.com^$all
+
+! https://en.wikipedia.org/wiki/Typosquatting
+||yuube.com^$document
+
+! https://github.com/DandelionSprout/adfilt/commit/32ea69e5a7c632bc2cd739fba4ee256e8a9e8abf (all credit to https://github.com/DandelionSprout)
+||hbo.cm^$all
+
+! an online source
+||wwwcitibank.com^$document
+||onlineciti.com^$document
+||coinbases.org^$document
+
+! listed in the MWB, seems to be owned by Meta now
+||instagramm.com^$document
+
+! https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/83
+||nottepad-plus-plus.org^$all
+
+! https://dnstwist.it/ for wolframalpha
+||wolfamalpha.com^$document
+||wolfremalpha.com^$document
+||woldramalpha.com^$document
+||woolframalpha.com^$document
+||www.woolframalpha.com^$document
+
+! https://github.com/durablenapkin/scamblocklist/issues/31
+||balkeryswep.online^$all
+||bakeryxswap.org^$all
+||bakareiswap.xyz^$all
+
+! https://github.com/durablenapkin/scamblocklist/issues/29
+||youutube.com^$document
+||youtubee.com^$document
+||youtunbe.com^$document
+||twiiiter.com^$document
+||twitterr.com^$document
+||goglle.com^$document
+||toyrube.com^$document
+||yahhhoo.com^$document
+
+! https://www.reddit.com/r/uBlockOrigin/comments/12pues7/fake_123movies_site_leading_to_redirect/
+||123moviesgo.ga^$all
+
+! https://github.com/durablenapkin/scamblocklist/issues/37
+||youtubebplan.com^$all
+
+! https://citizenlab.ca/2015/04/chinas-great-cannon/ (typo in https://github.com/greatfire)
+||gitub.com^$document
+||ww7.gitub.com^$all
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1392c8f/typosquatting_domains/
+||girhub.com^$document
+||linkefdin.com^$document
+
+! youtube typosquatt I found
+||you8tube.com^$all
+
+! https://forum.adguard.com/index.php?threads/dischrdapp-com-newyears.46467/
+||dischrdapp.com^$document
+
+! .zip domains which might also be common filenames (remove if they ever become legit websites)
+||familyphotos.zip^$document
+||archive.zip^$document
+||photos.zip^$document
+||42.zip^$document
+||microsoft-office.zip^$document
+||document.zip^$document
+||download.zip^$document
+||a.zip^$document
+||rar.zip^$document
+||taxdocuments.zip^$document
+||datasets.zip^$document
+||setup.zip^$document
+||java.util.zip^$document
+
+! .mov domains which also might be common filenames (remove if they ever become legit websites)
+||family.mov^$document
+||familyvideo.mov^$document
+||video.mov^$document
+||movie.mov^$document
+||funny.mov^$document
+
+! https://forums.malwarebytes.com/topic/298186-accidentally-visited-potential-maliciousmalware-website/
+! (my analysis) https://tria.ge/230523-zqkhmahd85/behavioral2
+||doodrdash.com^$all
+
+! doubt this will do any harm, but adding anyway
+||locahost^$document
+
+! is autolinked, also is a common filename
+||readme.md^$document
+
+! https://old.reddit.com/r/uBlockOrigin/comments/13r51k1/goglelcom_typosquatting/
+! https://github.com/uBlockOrigin/uAssets/issues/18332
+||goglel.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/18454
+||fllwers.com^$document
+
+! redirects to a malwarebytes affilate link
+||malwarebyttes.com^$document
+
+! https://dnstwist.it/ for slack.com
+! https://app.any.run/tasks/14cafa37-652e-47dc-b08f-39843f7ef022
+||slackk.com^$all
+
+! https://github.com/fractureiser-investigation/fractureiser/pull/109
+||dev.craftbukkit.org^$document
+||craftbukkit.org^$document
+
+! https://github.com/uBlockOrigin/uAssets/issues/18563
+||pronhubb.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/18564
+||yyooutube.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/19212
+||tikotk.com^$all
+
+! https://dnstwist.it/ for tiktok.com
+||tiktoks.com^$document
+||tiktokc.com^$document
+||tiktokl.com^$document
+||tiktokw.com^$document
+||tiktoke.com^$document
+
+! https://dnsrf.org/blog/the--zip-tld---ripe-for-abuse--but-so-far-so-good-/index.html
+||business-appeal.zip^$document
+||newdocument.zip^$document
+||google-drive.zip^$document
+||dhl-invoice.zip^$document
+||zoominstaller.zip^$document
+||pdfword.zip^$document
+||freecrack.zip^$document
+||computer.zip^$document
+||cringe.zip^$document
+
+! https://web.archive.org/web/20230813181452/https://www.bleepingcomputer.com/news/security/uk-gov-keeps-repeating-its-voter-registration-website-is-not-a-scam/
+||householdresponses.com^$document
+
+! https://threatfox.abuse.ch/ioc/1151472/
+||yahootk.tk^$all
+
+! https://virustotal.com/gui/url/45a03d912eaf1ec11a69a69129b393e3b84a3f48812264c5c9f95854e4bc6a36?nocache=1
+||www.paypal-com-verify.$document,domain=~translate.goog
+
+! https://www.bleepingcomputer.com/news/security/evil-telegram-android-apps-on-google-play-infected-60k-with-spyware/
+||telegrnm.org^$all
+
+! https://virustotal.com/gui/url/51a5c613fa07f8301aa68fa16e7307dbf3bf0b0dcfa015632895d7ebf7ca36d3/community
+||bookingcomdetails.$document,domain=~booking.com|~translate.goog
+
+! https://www.bleepingcomputer.com/news/security/fake-bitwarden-sites-push-new-zenrat-password-stealing-malware/
+||bitwariden.com^$all
+||crazygameis.com^$all
+
+! https://virustotal.com/gui/domain/login-office365.info/community
+||login-office365.info^$all
+
+! used to be a filesharing website - the owners gave up and the domain may be for sale
+||anonfiles.com^$document
+
+! dead but may return: https://virustotal.com/gui/url/518a4fb06ce6184f62910e42eb4081998cb3c5675c977fccb7db998881f86cdc
+||steamcomunity.ru^$all
+
+! https://github.com/libre-tube/LibreTube/issues/4409
+||libretube.$document
+||libretubeapk.$document
+
+! rules based on phishing urls listed in openphish
+! hxxp[://]www.coinbase-walletpro[.]com/
+||www.coinbase-wallet.$document,domain=~coinbase.com|~translate.goog
+! hxxp[://]steamc0ommunity[.]bos[.]ru/
+||steamc0ommunity.$document,domain=~translate.goog
+! hxxp[://]facebooksecuritys[.]blogspot[.]tw/
+||facebooksecuritys.$document,domain=~facebook.*|~translate.goog
+! hxxp[://]feceboolk[.]blogspot[.]sk/
+||feceboolk.$document
+! hxxp[://]whatsapp-com-videoooo-viral[.]paneldeni[.]com/
+/^https?:\/\/whatsapp-com-video/$document,domain=~translate.goog
+! hxxp[://]www[.]barclaysnet-support[.]com/
+||barclaysnet-support.$document
+! hxxp[://]instragramsecurity[.]com/
+||instragramsecurity.$document
+! hxxpx[://]fb-account-restricted-8d535[.]web[.]app/
+||fb-account-restricted-$document
+! hxxpx[://]fb-reserve-noreply-ea078[.]web[.]app/
+||fb-reserve-noreply-$document
+! hxxpx://meta-account-review-af2d[.]firebaseapp[.]com/
+||meta-account-review-$document
+! hxxpx[://]metabusiness-support-6092[.]firebaseapp[.]com/
+||metabusiness-support-$document
+! hxxpx://resolve-user-violation-c6961[.]web[.]app/
+||resolve-user-violation-$document
+! hxxp://metamask[.]matamaskloen[.]com/
+||metamask.matamaskloen.$document
+! hxxpx[://]attcom-102582.weeblysite[.]com/
+||attcom-$document,domain=weeblysite.com|top|example
+! hxxpx://ccoinbaselogin[.]blogspot[.]com/
+||ccoinbaselogin.$document
+! hxxpx[://]web-metamaskwallet[.]ddnss[.]eu/Q5My1hNGEyLTARgAAA3RMwAi0wMAoA/2Fn8g8ZIoTRjEMi7D3wABuGi3HAAAAA/cd4ac
+||web-metamaskwallet.$document
+! hxxp[://]sign-in-att-106455[.]weeblysite[.]com/
+||sign-in-att-$document,domain=~att.com
+! hxxp[://]account-restriction-1000967754[.]firebaseapp[.]com/
+||account-restriction-$document
+! hxxp[://]metazmskloign[.]github[.]io/
+||metazmskloign.$document
+! hxxp[://]xn--mtamask-98a[.]io/
+||xn--mtamask-$document,domain=io
+! hxxp[://]apple[.]appleidto[.]top/
+||apple.appleid$document,domain=top
+! hxxp[://]usps[.]com-ca[.]xyz/
+||usps.com-$document,domain=~usps.com|~translate.goog
+! hxxp[://]linkedindocumentinquiry[.]ap-south-1.linodeobjects[.]com/linkedinindex.html
+/^http:\/\/linkedindocumentinquiry\..*\/linkedinindex\.html$/$document
+! hxxpx[://]metamchromextensoin[.]gitbook[.]io/us/
+||metamchromextensoin.$document
+! hxxpx[://]www[.]lnstagram-tropicaibaiitouts[.]com/mobile.html
+||www.lnstagram-$document,domain=com|top|xyz
+! hxxpx[://]subscription-netflix-support[.]codeanyapp[.]com/monika/jonika/account/
+||subscription-netflix-support.$document
+! hxxpx://promote-warning-meta[.]help/3b070e09e0b9ac588d6b873cb246b2ae.html
+||promote-warning-meta.$document
+! hxxpx[://]mailoutlook365login[.]us-lax-1.linodeobjects.com/link.html
+||mailoutlook365login.us-$document
+! hxxp[://]office356domainlistmaintainnance231clouding1[.]brizy[.]site/
+||office356domainlistmaintainnance$document
+! hxxp[://]me-metamasklogin[.]mystrikingly[.]com/
+||me-metamasklogin.$document
+! hxxp[://]matamask-logi[.]mystrikingly[.]com/
+||matamask-logi.$document
+! hxxp[://]optusnet-com[.]blogspot[.]md/
+||optusnet-com.$document
+! hxxp[://]met0amaskl0gin1[.]github[.]io/
+||met0amaskl0gin1.$document
+
+! typo I made
+||downlod.com^$all
+
+! https://forums.malwarebytes.com/topic/303708-worried-about-drive-by-download-from-typoed-address/ (parked)
+||oldreddit.com^$document
+
+! https://github.com/hagezi/dns-blocklists/issues/1744
+! https://github.com/uBlockOrigin/uAssets/pull/20247
+||magiskzip.net^$all
+||magiskmanagerroot.com^$all
+! https://github.com/topjohnwu/Magisk/issues/3435
+||magisk.download^$all
+||magiskmanager.com^$all
+||magisk.$document,domain=~topjohnwu.github.io
+||magiskzip.$document,domain=~topjohnwu.github.io
+||magiskmanagerroot.$document,domain=~topjohnwu.github.io
+||magiskmanager.$document,domain=~topjohnwu.github.io
+||magiskcn.$document,domain=~topjohnwu.github.io
+||magiskroot.$document,domain=~topjohnwu.github.io
+||magiskapp.$document,domain=~topjohnwu.github.io
+! something I found
+||magisk.info^$all
+
+! https://github.com/paulgb/BarbBlock/issues/41
+||bblck.me^$document
+
+! another day another typo
+||adblockplu.org^$document
+
+! https://virustotal.com/gui/url/6afece7c72420223ae6f1700d02c8bee4806a335d23ab120522accba5e45250d
+! my analysis: https://tria.ge/231102-nctnlach68/behavioral1
+||apparaatbeheer-online-abnamro-icscards.$document
+
+! https://www.bleepingcomputer.com/news/security/bloomberg-crypto-x-account-snafu-leads-to-discord-phishing-attack/
+||altdentifiers.com^$all
+
+! https://virustotal.com/gui/domain/miccrossoffit.online/community
+||miccrossoffit.online^$all
+
+! drive-google-com[.]tk
+||drive-google-com.$document,domain=~google.*|~translate.goog
+
+! https://github.com/DandelionSprout/adfilt/discussions/932#discussioncomment-7694946
+||easypark-$document,domain=~translate.goog|~easypark.com|~easypark.net|~easyparkgroup.com|~easyparkpartners.com|~easyparksystem.net
+
+! https://virustotal.com/gui/url/69a1570512a5694049a9444ab6c0dd73432f3685894eb3d4d1e7dba7ce99766d/community
+||ne-correos.top^$document
+
+! account required: https://forums.malwarebytes.com/topic/305116-fake-software-homepage/
+||unikey.vn^$document
+
+! https://threatfox.abuse.ch/browse.php?search=ioc%3Adiscord-gg.duckdns.org
+||discord-gg.$document,domain=~translate.goog
+
+! https://virustotal.com/gui/domain/base-usps.top/community
+||base-usps.top^$all
+
+! https://github.com/RPiList/specials/issues/1404
+||bonprix-sale.shop^$all
+||bonprix-sale.$document
+
+! https://threatfox.abuse.ch/ioc/1226308/
+||updates.adobe-soft.$document
+
+! yes, another typo by me
+||deepl.cm^$all
+
+! https://infosec.exchange/@iampytest1/111669799133185795
+||gimail.su^$document
+
+! https://github.com/Dogino/Discord-Phishing-URLs/pull/25
+||steamcommuaity.com^$all
+
+! https://virustotal.com/gui/domain/booking.com-panel.com
+||com-panel.com^$document
+||booking.com-panel.com^$all
+||mail.com-panel.com^$document
+
+! https://virustotal.com/gui/url/3828695bc16bb9d0bfab17eb5c15e5fe9e8b30bb6cb948655a6a55466b9dc187/community
+||telegcrmz.fit^$all
+! https://virustotal.com/gui/url/53efa35943a9b0bbcc4f966791e992052ac647a883c81a43bb86dd94bbbbd48d/community
+||telegcrmz.work^$all
+||telegcrmz.$document,domain=telegcrmz.*
+! https://virustotal.com/gui/url/cf88de3dc23272e078a7412c64b12e038cd8b9dc1beb07be6ac3f017919aa09b/community
+||telejracm.fit^$all
+||telejracm.$document,domain=telejracm.fit.*
+! https://virustotal.com/gui/ip-address/103.119.3.17/relations
+||www.telegreem.club^$document
+||telejracm.work^$document
+||telejracm.club^$document
+||telejrzmn.cc^$document
+||teleptrm.fit^$document
+||teleptrm.work^$document
+||telegzzem.club^$document
+||telegzzem.fit^$document
+||telegzzem.work^$document
+||telegrnne.work^$document
+||telegrnne.fit^$document
+||telegrnne.club^$document
+||telegcrmz.club^$document
+||telegreem.club^$document
+||telegreem.work^$document
+||telegreem.vip^$document
+||telejrzmn.work^$document
+||telejrzmn.club^$document
+||telegcrenn.fit^$document
+||telegcrenn.club^$document
+||telegrczm.work^$document
+||telegrczm.fit^$document
+||teleggcam.club^$document
+||teleggcam.fit^$document
+||teleggcam.work^$document
+||www.telegceam.club^$document
+||www.teleqpcam.club^$document
+||teleqrinm.cn^$document
+||teleqrinm.com.cn^$document
+||www.teleqpamn.work^$document
+||www.teleqrinm.club^$document
+||www.teleqpcam.work^$document
+||teleqpcam.work^$document
+||teleqpcam.club^$document
+||teleqpcam.fit^$document
+||teleprannn.cc^$document
+||telegbrm.work^$document
+||telegbrm.club^$document
+||telebriun.work^$document
+||teleqpcn.fit^$document
+||teleqpcn.club^$document
+||teleqpcn.work^$document
+||teleqrenm.cc^$document
+||teleqpamn.fit^$document
+||teleqpamn.club^$document
+||teleqpamn.work^$document
+||teleqrinm.club^$document
+||teleqernm.cc^$document
+||www.teleprium.fit^$document
+||teleprannn.vip^$document
+||teleprannn.club^$document
+||www.teleqernm.fit^$document
+||telegceam.club^$document
+||telegceam.work^$document
+||teleppram.club^$document
+||teleqrenm.work^$document
+||teleqrenm.club^$document
+||www.telegczim.work^$document
+||www.telegczim.vip^$document
+||telegrcmn.cc^$document
+||teletrean.cc^$document
+||telegruim.top^$document
+||telegczim.work^$document
+||telegczim.club^$document
+||telegczim.vip^$document
+||www.telegczm.vip^$document
+||teleprium.fit^$document
+||teleprium.work^$document
+||teleprium.club^$document
+||www.telegczm.fit^$document
+||telepamn.cc^$document
+||telegczm.vip^$document
+||telegczm.club^$document
+||telegczm.fit^$document
+||tgelegrean.cc^$document
+||teleqriem.vip^$document
+||telegpem.club^$document
+||telegirmn.vip^$document
+||telebrzm.vip^$document
+||teleqcmn.work^$document
+||teleqcmn.fit^$document
+||teleqcmn.club^$document
+||teleqernm.fit^$document
+||teleqernm.club^$document
+||telegirmn.cn^$document
+||www.telegirmn.cn^$document
+||telegwam.work^$document
+||www.telegwam.work^$document
+||telegcmn.cc^$document
+||teletrpm.club^$document
+||teleprazm.club^$document
+||telegirm.cc^$document
+||www.telebriun.work^$document
+||tglegmn.work^$document
+||telegpem.fit^$document
+||telegpem.work^$document
+||tgelegrean.work^$document
+||teletrpm.fit^$document
+
+! https://github.com/Dogino/Discord-Phishing-URLs/pull/26
+||steamcommuniitny.club^$all
+||steamcommuniitny.$document
+
+! https://www.virustotal.com/gui/domain/business-manage-facebook.com
+||business-manage-facebook.com^$document
+
+! https://github.com/durablenapkin/scamblocklist/issues/74
+||link-etsy.com^$all
+||etsy-verifed-shop.com^$all
+
+! https://github.com/hagezi/dns-blocklists/issues/2081
+||do0cd.com^$all
+||doosd.pro^$all
+||d0ood.com^$all
+||dooodg.pro^$all
+||doode.pro^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/22200
+||privacyguides.io^$all
+
+! https://forums.malwarebytes.com/topic/308126-writerswhoreadcom-fp/ -> https://www.virustotal.com/gui/ip-address/162.244.93.4/relations
+||chasecreditloan.com^$document
+
+! https://github.com/DandelionSprout/adfilt/commit/2b0705861bde02511e1fdd72edf470b2811ecb8c#r138964973
+||githubtalentcommunity.online^$all
+||jobs.githubtalentcommunity.online^$all
+
+! typo I almost made.
+||virustotaal.com^$document
+
+! https://github.com/blocklistproject/Lists/issues/1199
+||steamcommumtiy.com^$document
+
+! https://github.com/hagezi/dns-blocklists/issues/2397
+! my analysis: https://tria.ge/240325-przzlaae9x/behavioral1
+||ggogle.de^$document
+
+! https://github.com/hagezi/dns-blocklists/issues/2405
+||usps-delivery-a.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/22765
+||free-mob2584.$document
+||zimbra-free-com.$document,domain=~translate.goog
+
+! https://github.com/uBlockOrigin/uAssets/issues/23084
+||fitgirltorrent.com^$all
+||fitgirltorrent.$document
+
+! https://github.com/hagezi/dns-blocklists/issues/2425
+||fling-trainer.com^$document
+
+! https://infosec.exchange/@iampytest1/112203822803380750
+||toughknifes.com^$all
+||darntoughfactory.shop^$all
+||darnroughonline.top^$all
+||darntoughonline.shop^$all
+||darntoughonline-us.top^$all
+||darntoughsales.shop^$all
+||us-darntoughonline.top^$all
+||vipbargainhub.com^$all
+||vpdamai.com^$all
+
+! https://github.com/jarelllama/Scam-Blocklist/issues/277
+! https://dfpi.ca.gov/2024/03/25/fraudulent-bank-website-scam/
+||beachcitiescommercialbank.com^$all
+! my analysis: https://tria.ge/240404-xlg6laga74/behavioral1
+! https://infosec.exchange/@iampytest1/112214528899229692
+||americasfirstnationalbank.com^$all
+
+! https://github.com/durablenapkin/scamblocklist/issues/82
+||account-cfe.mx^$document
+
+! https://vid.puffyan.us/watch?v=h0_L4BApOdA
+! my analysis: https://tria.ge/240409-2aenjsee49/behavioral1
+! my analysis: https://tria.ge/240409-2bwnfsaa5z/behavioral1
+||gooq1e.com^$all
+
+! https://github.com/hagezi/dns-blocklists/issues/2506
+||grapheneos.fr^$all
+
+! https://github.com/hagezi/dns-blocklists/issues/2549
+! https://github.com/StevenBlack/hosts/pull/2637
+||sadostic.pl^$document
+
+! https://github.com/RPiList/specials/issues/1554
+||myhermes-sendungs.com^$document
+
+! https://www.bleepingcomputer.com/news/security/iranian-hackers-pose-as-journalists-to-push-backdoor-malware/
+! https://cloud.google.com/blog/topics/threat-intelligence/untangling-iran-apt42-operations
+||washinqtonpost.press^$all
+||bitly.org.il^$all
+||aspenlnstitute.org^$all
+
+! https://forums.malwarebytes.com/topic/311757-opening-etsycom-gets-blocked-by-mb-browser-plugic-for-redirect-to/
+||esty.com^$document
+
+! https://github.com/hagezi/dns-blocklists/issues/2652
+! https://github.com/AmnestyTech/investigations/blob/master/2024-05-02_wintego_helios/domains.txt
+||africatech.eu^$all
+||afrinews.eu^$all
+||alertanalysis.org^$all
+||all-life-fitness.org^$all
+||androidcheckupdate.com^$all
+||androidsensorfirmware.net^$all
+||applibraryupdate.network^$all
+||arninja.eu^$all
+||astroplanet.org^$all
+||ateliernow.org^$all
+||autotechhelp.net^$all
+||backpackerreviews.org^$all
+||basketballreviews.org^$all
+||bbc.bio^$all
+||bbc.tf^$all
+||beaconzero.net^$all
+||bestgeometry.org^$all
+||bestgreenblog.org^$all
+||bestsflix.net^$all
+||biceptech.org^$all
+||bincoupon.com^$all
+||bitsinflow.net^$all
+||biznetforum.eu^$all
+||blastermaster.eu^$all
+||boxmaster.org^$all
+||boxpearl.eu^$all
+||businesspractice.org^$all
+||cafelatenow.com^$all
+||carepile.net^$all
+||caretechno.net^$all
+||caronspot.co^$all
+||cartechnews.net^$all
+||celltechnollogy.com^$all
+||cloudysystems.org^$all
+||cnn.gallery^$all
+||coffeedirectory.org^$all
+||computer-repair.org^$all
+||coolbrandlabs.com^$all
+||coralspire.net^$all
+||craftsplex.net^$all
+||daily-tech.eu^$all
+||dakaractu.news^$all
+||daysomega.com^$all
+||dealsenterprise.com^$all
+||decofusion.eu^$all
+||deepearnings.net^$all
+||designercellular.com^$all
+||dialrooms.eu^$all
+||dinnerfit.org^$all
+||doctorstar.org^$all
+||draftshape.net^$all
+||drinksnow.org^$all
+||driverhacks.net^$all
+||echoswift.net^$all
+||ericshop.org^$all
+||expandingtech.net^$all
+||expressotelecom.eu^$all
+||falconstudio.eu^$all
+||fansclear.net^$all
+||financeanalyzer.net^$all
+||fitnessstar.org^$all
+||flexibilycompany.org^$all
+||flipcollective.eu^$all
+||flyrick.net^$all
+||foodystudio.org^$all
+||gaincharts.net^$all
+||gainthepain.com^$all
+||galaxy-toolkit.net^$all
+||galaxy-update-check.com^$all
+||galaxyupdate.network^$all
+||galaxyupdatecheck.com^$all
+||gamingtoday.org^$all
+||getappnion.org^$all
+||getinstitution.org^$all
+||gettechnology.org^$all
+||globalbikeshop.org^$all
+||gotechtube.com^$all
+||hikewithmike.eu^$all
+||hiphopreviews.org^$all
+||hirecheapcar.com^$all
+||history-guidance.net^$all
+||hugetech.org^$all
+||intech.so^$all
+||internationalre.org^$all
+||jeuneafrique.eu^$all
+||jeuneafrique.news^$all
+||jotnanews.co^$all
+||jotnanews.fr^$all
+||jotnanews.live^$all
+||laneandco.org^$all
+||laptoptech.org^$all
+||lidarfirmwareupdate.network^$all
+||localsystems.org^$all
+||lovekitchen.org^$all
+||loyalpro.org^$all
+||loyarbox.org^$all
+||mambaweb.org^$all
+||maplebook.org^$all
+||medatcost.co^$all
+||michealblog.org^$all
+||misoshiru.eu^$all
+||mylaylastore.org^$all
+||netprotector.org^$all
+||nicetreasures.com^$all
+||numbersnews.org^$all
+||oneinfluence.org^$all
+||onlineshoppingnetwork.org^$all
+||paperscissors.net^$all
+||penlife.org^$all
+||piratetv.org^$all
+||playerselection.eu^$all
+||powerway.org^$all
+||proteinreviews.org^$all
+||pythonsystems.org^$all
+||quickfindnow.net^$all
+||realmac.org^$all
+||recipeadvice.eu^$all
+||reordertree.net^$all
+||restroad.eu^$all
+||restroad.net^$all
+||risetech.one^$all
+||riskdrive.eu^$all
+||runningmart.org^$all
+||securefilter.net^$all
+||selfblank.net^$all
+||selfhelptech.org^$all
+||senedroid.net^$all
+||senego.fr^$all
+||senego.info^$all
+||seneweb.eu^$all
+||seneweb.news^$all
+||sensomatics.net^$all
+||serverdetails.click^$all
+||setupvalue.net^$all
+||singoffice.net^$all
+||sodahub.org^$all
+||solararcade.eu^$all
+||solargeotech.net^$all
+||spacevocal.net^$all
+||sporthome.org^$all
+||startupfit.org^$all
+||storm-tech.org^$all
+||swiftecho.eu^$all
+||swimaster.org^$all
+||swimmingcompany.org^$all
+||syndicationcdn.com^$all
+||taminessentials.net^$all
+||techarmys.com^$all
+||techarmys.net^$all
+||techdeliver.cc^$all
+||technarrow.net^$all
+||ten-group.eu^$all
+||theholder.org^$all
+||thesoundyou.org^$all
+||tiktok.do^$all
+||tilesget.net^$all
+||tipvortex.net^$all
+||topmark24.org^$all
+||travelow.org^$all
+||tribunnews.org^$all
+||triptrick.net^$all
+||trvelingguide.org^$all
+||ultrajewelery.net^$all
+||unlockcredit.net^$all
+||ups.so^$all
+||urbanthree.eu^$all
+||vision-tech.org^$all
+||waterfit.org^$all
+||wateringreviews.org^$all
+||webjars.net^$all
+||webtechuse.net^$all
+||whiskytango.net^$all
+||witquote.com^$all
+||yachtatdock.com^$all
+||yogurthome.org^$all
+
+! https://infosec.exchange/@jeromesegura/112577106338279545 (all credit to Jérôme Segura)
+! ads created by "Richard L Riddle Jr", "Brian Hammes", and "Alexander Gubbens" respectively (all fake names)
+||angryip.paulistasolar.com.br^$document
+||angryipsca.com^$document
+||odvanced-ip-scanner.com^$document
+
+! anonymous submission
+||preggophila.com^$document
+
+! https://github.com/yokoffing/filterlists/issues/147
+||service-rundfunkbeitrag.de^$document
+
+! https://github.com/hagezi/dns-blocklists/issues/2936
+||midjourney.co^$all
+
+! https://www.esentire.com/blog/adsexhaust-a-newly-discovered-adware-masquerading-oculus-installer
+! https://github.com/esThreatIntelligence/iocs/blob/main/AdsExhaust/AdsExhaust_IOCs-6-16-2024.txt
+||oculus-app.com^$all
+
+! https://sansec.io/research/polyfill-supply-chain-attack
+||polyfill.io^$all
+||cdn.polyfill.io^$all,important
+||googie-anaiytics.com^$all
+||www.googie-anaiytics.com^$all
